@@ -1,0 +1,53 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-image: url(https://idealquilting.com/wp-content/uploads/2019/02/chevron.png);
+    text-align: center;
+}
+p{
+    font-size: larger;
+    font-weight: bolder;
+    color: #DCDCDC;
+}
+h1{
+    color:#e5f105;
+    font-weight: bolder;
+    text-shadow: 2px 0 1px rgb(173, 170, 170);
+    letter-spacing: 2px;
+    background-color: rgb(13, 189, 136);
+    width: fit-content;
+    margin: 0 auto;
+    border: 5px double rgb(16, 16, 15);
+    border-radius: 10px;
+   
+}
+button{
+    background-color: #ab8d1e;
+    border: none;
+    padding:4px 8;
+    color:rgb(54, 151, 162);
+    border-radius: 5px;
+    transition: 1s;
+    font-size: 10;
+    font-weight: bold;
+}
+button:active{
+  scale: 0.9;
+  background-color: #e5f105;
+}
+
+button:hover{
+    background-color: #ab8d1e;
+}
+.image{height: 100px;
+    transition: 0.2s;
+}
+.image:hover{
+scale: 1.1;
+}
+
+
+
+   
+  
+  
+
